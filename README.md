@@ -1,6 +1,6 @@
 # ChihChin Yang (Adela)🧑🏻‍💻 
 
-**`Data Scientist`**
+**`Data Scientist / Data Analyst`**
 
 
 I am a graduate student at American University pursuing M.S. in Data Science for College Art and Sciences (Washington, D.C.). 
