@@ -34,6 +34,7 @@ I am interested in using coding skills and statistical method to discover new th
 - Machine Learning
 - Advanced Machine Learning 
 - Data Mining
+- Natural language processing (NLP)
 
 I am also a research assistant at College Art and Sciences, American University.
 
